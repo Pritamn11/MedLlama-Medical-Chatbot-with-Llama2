@@ -16,14 +16,11 @@ https://github.com/Pritamn11/MedLlama-Medical-Chatbot-with-Llama2.git
 python -m venv newenv
 ```
 
-```bash
-medenv/Scripts/activate
-```
 
 ## 3. Activate the virtual environment
 
 ```bash
-medenv\Scripts\activate
+newenv\Scripts\activate
 ```
 
 ## 4. Install the requirements
